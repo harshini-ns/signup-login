@@ -1,0 +1,10 @@
+import {Container} from "react-bootrstrap";
+export default function Home(){
+  return(
+  <Container>
+    <h1 className="my-3"> WELCOMEs YOU !!! </h1>
+  </Container>
+  )
+  
+  )
+}
